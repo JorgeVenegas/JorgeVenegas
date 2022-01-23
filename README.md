@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-api/top-langs?username=JorgeVenegas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JorgeVenegas)](https://github.com/JorgeVenegas/github-readme-stats)
 
 <!--
 **JorgeVenegas/JorgeVenegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
