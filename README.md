@@ -1,8 +1,4 @@
-Here's a structured GitHub bio for you based on the provided information:
-
----
-
-### 👋 Hi, I'm Jorge Emilio Venegas Lozano  
+### 👋 Hi, I'm Jorge Venegas  
 **Mechatronics Engineer | Full-Stack Developer | Innovator**
 
 ---
